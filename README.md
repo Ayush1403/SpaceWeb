@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+
+# SpaceWeb
+
+"Explore the cosmos like never before with our cutting-edge web application dedicated to unraveling the mysteries of space. Seamlessly blending education and technology, our platform utilizes React and Tailwind CSS for a sleek, responsive interface that makes learning about the universe both captivating and intuitive.
+
+
+## Demo
+
+Insert gif or link to demo
+
+https://ibb.co/gdjFTCB
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
